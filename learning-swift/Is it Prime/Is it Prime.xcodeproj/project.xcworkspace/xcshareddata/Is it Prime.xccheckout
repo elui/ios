@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35F8DD39-1098-4B88-AB8E-8EDA200FF468</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Is it Prime</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>924D4A7B75899E644819EC0518C3BF95ACA8E11D</key>
+		<string>https://github.com/elui/SwiftProjects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftTutorial/Is it Prime/Is it Prime.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>924D4A7B75899E644819EC0518C3BF95ACA8E11D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/elui/SwiftProjects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>924D4A7B75899E644819EC0518C3BF95ACA8E11D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>924D4A7B75899E644819EC0518C3BF95ACA8E11D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
